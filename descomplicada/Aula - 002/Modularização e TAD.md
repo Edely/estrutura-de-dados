@@ -1,4 +1,4 @@
-#[ED] Aula 02 - Modularizaçãoe TAD
+#[ED] Aula 02 - Modularização e TAD
 https://www.youtube.com/watch?v=lKwEQgV6nZk
 
 Todos os créditos para **Linguagem C Programação Descomplicada**
