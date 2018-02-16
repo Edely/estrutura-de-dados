@@ -1,4 +1,4 @@
-#[ED] Aula 02 - Modularização e TAD
+# [ED] Aula 02 - Modularização e TAD
 https://www.youtube.com/watch?v=lKwEQgV6nZk
 
 Todos os créditos para **Linguagem C Programação Descomplicada**
@@ -29,3 +29,4 @@ struct ponto{
 2º Passo: Implementar as funções no arquivo ".C" - 'Ponto.c'
 
 
+[A Seguir - Listas Parte 1 - Definição](../Aula\ -\ 003/Listas.md)
