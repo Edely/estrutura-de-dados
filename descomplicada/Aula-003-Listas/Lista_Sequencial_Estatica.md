@@ -31,3 +31,6 @@ Ao adicionarmos um elemento à lista, basta colocarmos na próxima posição vag
 - Inserçãoremoção apenas no final da lista
 - Tamanho máximo bem definido
 - A busca é a operação mais frequente
+
+
+[A Seguir - Implementando Lista Estática](./Implementando_Lista_Estática.md)
