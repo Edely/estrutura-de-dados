@@ -33,4 +33,4 @@ Ao adicionarmos um elemento à lista, basta colocarmos na próxima posição vag
 - A busca é a operação mais frequente
 
 
-[A Seguir - Implementando Lista Estática](./Implementando_Lista_Estática.md)
+[A Seguir - Implementando Lista Estática](./Implementando_Lista_Estatica.md)

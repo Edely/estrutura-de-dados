@@ -17,3 +17,5 @@ Todos os créditos para **Linguagem C Programação Descomplicada**
 [[ED] Aula 03 - Listas Parte 1 - Definição](descomplicada/Aula-003-Listas/Listas.md)
 
 [[ED] Aula 04 - Listas Parte 2 - Lista Estática Sequencial](descomplicada//Aula-003-Listas/Lista_Sequencial_Estatica.md)
+
+[[ED] Aula 05 - Listas Parte 3 - Implementando Lista Estática](descomplicada//Aula-003-Listas/Implementando_Lista_Estatica.md)
