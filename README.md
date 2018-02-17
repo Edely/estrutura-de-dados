@@ -10,10 +10,10 @@ Todos os créditos para **Linguagem C Programação Descomplicada**
 
 
 ### Intro
-[[ED] Aula 01 - TAD (Tipo Abstrato de Dado)](./descomplicada/Aula\ -\ 001/tipo_abstrato_de_dados.md)
+[[ED] Aula 01 - TAD (Tipo Abstrato de Dado)](./descomplicada/Aula-001/tipo_abstrato_de_dados.md)
 
-[[ED] Aula 02 - Modularização e TAD](./descomplicada/Aula\ -\ 002/Modularização\ e\ TAD.md)
+[[ED] Aula 02 - Modularização e TAD](descomplicada/Aula-002/Modularizacao_e_TAD.md)
 
-[[ED] Aula 03 - Listas Parte 1 - Definição](./descomplicada/Aula\ -\ 003/Listas.md)
+[[ED] Aula 03 - Listas Parte 1 - Definição](descomplicada/Aula-003-Listas/Listas.md)
 
-[[ED] Aula 04 - Listas Parte 2 - Lista Estática Sequencial](./descomplicada/Aula\ -\ 003/Lista\ Sequencial\ Estática.md)
+[[ED] Aula 04 - Listas Parte 2 - Lista Estática Sequencial](descomplicada//Aula-003-Listas/Lista_Sequencial_Estatica.md)

@@ -29,4 +29,4 @@ struct ponto{
 2º Passo: Implementar as funções no arquivo ".C" - 'Ponto.c'
 
 
-[A Seguir - Listas Parte 1 - Definição](../Aula\ -\ 003/Listas.md)
+[A Seguir - Listas Parte 1 - Definição](../Aula-003-Listas/Listas.md)

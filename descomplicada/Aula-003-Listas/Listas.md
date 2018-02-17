@@ -42,4 +42,4 @@ Se N = 0, dizemos ue a lista está vazia.
 
 ![listas](../images/listas-002.png)
 
-[A Seguir - Lista Sequencial Estática](./Lista\ Sequencial\ Estática.md)
+[A Seguir - Lista Sequencial Estática](./Lista_Sequencial_Estatica.md)
