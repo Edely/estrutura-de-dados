@@ -14,3 +14,6 @@ Implementando uma "Lista Sequencial Estática"
     "ListaSequencial.c" definir
         - 0 tipo de dados "lista"
         - implementar suas funções
+
+
+[A Seguir - Informações Lista Estática](./Informacoes_Lista_Estatica.md)        

@@ -15,6 +15,25 @@ Lista* cria_lista(){
     return li;
 }
 
-void libera_lista(Lista* li)[
+void libera_lista(Lista* li){
     free(li);
-]
+}
+
+int tamanho_lista(Lista* li){
+    if(li == NULL)
+        return -1;
+    else    
+        return li->qtd;
+}
+
+int lista_cheia(Lista* li){
+    if(li == NULL)
+        return -1;
+    return(li->qtd == MAX);
+}
+
+int lista_vazia(Lista* li){
+    if(li == NULL)
+        return -1;;
+    return(li->qtd == 0);
+}

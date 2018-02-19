@@ -114,7 +114,7 @@ int remove_lista(Lista* li, int mat){
 }
 
 int consulta_lista_pos(Lista* li, int pos, struct aluno *al){
-    if(li==NULL || pos <= 0 || pos > li-qtd>)
+    if(li==NULL || pos <= 0 || pos > li->qtd)
         return 0;
     *al = li->dados[pos-1];
     return 1;
@@ -128,6 +128,6 @@ int consulta_lista_mat(Lista* li, int mat, struct aluno *al){
         i++;
     if(i == li->qtd)
         return 0;
-    *al = lo->dados[i];
+    *al = li->dados[i];
     return 1;
 }
